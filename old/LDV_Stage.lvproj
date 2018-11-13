@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="17008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
@@ -21,7 +21,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="32intArray_to_Bytes.vi" Type="VI" URL="../32intArray_to_Bytes.vi"/>
 		<Item Name="Data Cluster.vi" Type="VI" URL="../Data Cluster.vi"/>
-		<Item Name="FFT_Analysis.vi" Type="VI" URL="../FFT_Analysis.vi"/>
 		<Item Name="getDisplacement.vi" Type="VI" URL="../getDisplacement.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Send_Ack_Nack.vi" Type="VI" URL="../Send_Ack_Nack.vi"/>
@@ -29,7 +28,6 @@
 		<Item Name="Set Controls.vi" Type="VI" URL="../Set Controls.vi"/>
 		<Item Name="Steps.ctl" Type="VI" URL="../Steps.ctl"/>
 		<Item Name="Steps_to_Add.vi" Type="VI" URL="../Steps_to_Add.vi"/>
-		<Item Name="Untitled 2.vi" Type="VI" URL="../Untitled 2.vi"/>
 		<Item Name="Velocity_FFT.vi" Type="VI" URL="../Velocity_FFT.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
